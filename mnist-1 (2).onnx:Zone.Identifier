@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/onnx/models/blob/main/validated/vision/classification/mnist/model/mnist-1.onnx
+HostUrl=https://media.githubusercontent.com/media/onnx/models/main/validated/vision/classification/mnist/model/mnist-1.onnx?download=true
